@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname/ddd-task-demo"
+    "url": "git@github.com:giannibosio/ddd-task-demo.git"
   },
   "engines": {
     "node": ">=18"
